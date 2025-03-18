@@ -5,6 +5,7 @@
     "{id:group}Lines": "線條",
     "{id:group}Obstacles": "障礙物",
     "{id:group}Configuration": "設定",
+    "robot.RobotDriver.start|block": "機器人 %this 啟動",
     "robot.motorSteer|block": "控制機器人馬達 $turnRatio 速度 $speed \\% || 延期 $duration 毫秒",
     "robot.motorTank|block": "控制機器人馬達 左 $left \\% 右 $right \\% || 延期 $duration 毫秒",
     "RobotAssist.LineFollowing|block": "跟隨線條",
